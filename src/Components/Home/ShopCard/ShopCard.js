@@ -21,7 +21,7 @@ const ShopCard = () => {
       <div className="cards flex flex-wrap justify-center">
         {shopCards.map((shopCard) => (
           <div className="pb-4 m-6 rounded-lg shadow-3xl w-96 md:w-2/5 lg:w-1/4 bg-white">
-            <img src={shopCard.cardBanner} className="rounded-t-lg" alt="" />
+            <img src={shopCard.cardBanner} className="rounded-t-lg h-28 w-full" alt="" />
 
             <div className="relative pt-2">
               <div className="absolute -mt-12 w-full flex justify-center items-center">

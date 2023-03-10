@@ -4,7 +4,7 @@ const vendorData = [
     shopName: 'Huel LLC',
     logo: 'https://i.ibb.co/m079wqz/logo-1.jpg',
     banner: 'http://dummyimage.com/100x100.png/dddddd/000000',
-    cardBanner: require('../Assets/images/vendorCardBanner/Image-1.jpg')
+    cardBanner: require('../Assets/images/vendorCardBanner/hammocks-with-palm-trees.jpg')
       .default,
     rating: 2,
     totalReview: 22,
@@ -24,7 +24,7 @@ const vendorData = [
     shopName: 'Tremblay and Schiller',
     logo: 'https://i.ibb.co/hLx4PDp/logo-2.jpg',
     banner: 'http://dummyimage.com/100x100.png/ff4444/ffffff',
-    cardBanner: require('../Assets/images/vendorCardBanner/Image-2.jpg')
+    cardBanner: require('../Assets/images/vendorCardBanner/scenic-view-sandy-beach-beach-with-sun-beds-umbrellas-open-against-sea-mountains-hotel-resort-tekirova-kemer-turkey.jpg')
       .default,
     rating: 3,
     totalReview: 22,
@@ -44,7 +44,7 @@ const vendorData = [
     shopName: 'Fahey-Batz',
     logo: 'https://i.ibb.co/gTyP52V/logo-3.jpg',
     banner: 'http://dummyimage.com/100x100.png/dddddd/000000',
-    cardBanner: require('../Assets/images/vendorCardBanner/Image-3.jpg')
+    cardBanner: require('../Assets/images/vendorCardBanner/white-bedroom-hotel.jpg')
       .default,
     rating: 1,
     totalReview: 22,
@@ -64,7 +64,7 @@ const vendorData = [
     shopName: 'Baumbach LLC',
     logo: 'https://i.ibb.co/7W4Bcpg/logo-4.jpg',
     banner: 'http://dummyimage.com/100x100.png/ff4444/ffffff',
-    cardBanner: require('../Assets/images/vendorCardBanner/Image-4.jpg')
+    cardBanner: require('../Assets/images/vendorCardBanner/umbrella-chair.jpg')
       .default,
     rating: 3,
     totalReview: 22,
@@ -84,7 +84,7 @@ const vendorData = [
     shopName: 'Howell Group',
     logo: 'https://i.ibb.co/xCKt8dq/logo-5.jpg',
     banner: 'http://dummyimage.com/100x100.png/5fa2dd/ffffff',
-    cardBanner: require('../Assets/images/vendorCardBanner/Image-5.jpg')
+    cardBanner: require('../Assets/images/vendorCardBanner/beautiful-comfortable-luxury-white-pillow-blanket-bed-decoration-bedroom.jpg')
       .default,
     rating: 5,
     totalReview: 22,
@@ -104,7 +104,7 @@ const vendorData = [
     shopName: 'Williamson-Gerlach',
     logo: 'https://i.ibb.co/bmfZp95/logo-6.jpg',
     banner: 'http://dummyimage.com/100x100.png/dddddd/000000',
-    cardBanner: require('../Assets/images/vendorCardBanner/Image-6.jpg')
+    cardBanner: require('../Assets/images/vendorCardBanner/tropical-hotel-holiday-background-resort.jpg')
       .default,
     rating: 4,
     totalReview: 22,
@@ -124,7 +124,7 @@ const vendorData = [
     shopName: "Maul LLC",
     logo: "https://i.ibb.co/m079wqz/logo-1.jpg",
     banner: "http://dummyimage.com/100x100.png/dddddd/000000",
-    cardBanner: require("../Assets/images/vendorCardBanner/Image-1.jpg").default,
+    cardBanner: require("../Assets/images/vendorCardBanner/tropical-hotel-holiday-background-resort.jpg").default,
     rating: 2,
     city: "Seoul",
     location: "Albenia",
@@ -142,7 +142,7 @@ const vendorData = [
     shopName: "Tremblay ",
     logo: "https://i.ibb.co/hLx4PDp/logo-2.jpg",
     banner: "http://dummyimage.com/100x100.png/ff4444/ffffff",
-    cardBanner: require("../Assets/images/vendorCardBanner/Image-2.jpg").default,
+    cardBanner: require("../Assets/images/vendorCardBanner/hammocks-with-palm-trees.jpg").default,
     rating: 3,
     city: "Castlerea",
     location: "Kretoria",
@@ -160,7 +160,7 @@ const vendorData = [
     shopName: "Lahey Yatz",
     logo: "https://i.ibb.co/gTyP52V/logo-3.jpg",
     banner: "http://dummyimage.com/100x100.png/dddddd/000000",
-    cardBanner: require("../Assets/images/vendorCardBanner/Image-3.jpg").default,
+    cardBanner: require("../Assets/images/vendorCardBanner/white-bedroom-hotel.jpg").default,
     rating: 1,
     city: "Champerico",
     location: "Kretoria",

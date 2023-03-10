@@ -16,10 +16,11 @@ const Blog = () => {
         <div className="grid gap-8 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
           <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-3xl">
             <img
-              src="https://wpbingosite.com/wordpress/fuho/wp-content/uploads/2018/05/blog-1-720x484.jpg"
+              src="https://i.ibb.co/T2N96Fd/hammocks-with-palm-trees.jpg"
               className="object-cover w-full h-64"
               alt=""
             />
+            
             <div className="p-5 mb-4">
               <p className="mb-3 text-xs font-semibold font-sans tracking-wide uppercase pb-4 border-b border-gray-300 ">
                 <a
@@ -55,10 +56,13 @@ const Blog = () => {
 
           <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-3xl">
             <img
-              src="https://wpbingosite.com/wordpress/fuho/wp-content/uploads/2018/05/blog-4-720x484.jpg"
+              src="https://i.ibb.co/7Rdx4LW/scenic-view-sandy-beach-beach-with-sun-beds-umbrellas-open-against-sea-mountains-hotel-resort-tekiro.jpg"
               className="object-cover w-full h-64"
               alt=""
             />
+
+
+
             <div className="p-5 mb-4">
               <p className="mb-3 text-xs font-semibold font-sans  tracking-wide uppercase pb-4 border-b border-gray-300 ">
                 <a
@@ -94,10 +98,11 @@ const Blog = () => {
 
           <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-3xl">
             <img
-              src="https://medik.wpengine.com/wp-content/uploads/2019/01/blog9-1024x648.jpg"
+              src="https://i.ibb.co/82xjTHD/umbrella-chair.jpg"
               className="object-cover w-full h-64"
               alt=""
             />
+          
             <div className="p-5 mb-4">
               <p className="mb-3 text-xs font-semibold font-sans  tracking-wide uppercase pb-4 border-b border-gray-300 ">
                 <a
